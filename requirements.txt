@@ -1,0 +1,6 @@
+python-docx
+lxml
+pandas
+openpyxl
+pymupdf
+pdfplumber
